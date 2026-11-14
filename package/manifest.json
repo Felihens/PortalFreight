@@ -1,0 +1,9 @@
+{
+  "name": "PortalFreight",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Felihens/PortalFreight",
+  "description": "Carry anything through portals (ores, metals, eggs), whatever the world settings. Shorter loading screen, and portals light up only when you come closer. Client-side.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351"
+  ]
+}
