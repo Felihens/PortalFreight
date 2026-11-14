@@ -7,7 +7,7 @@ Mod para Valheim (BepInEx, client-side): leve qualquer item pelos portais (miné
 For players, see [package/README.md](package/README.md). That file is also the Thunderstore page.
 Para jogadores, veja [package/README.md](package/README.md).
 
-Download: [Thunderstore](https://thunderstore.io/c/valheim/p/DJAventuras/PortalFreight/) · [GitHub Releases](https://github.com/Felihens/PortalFreight/releases)
+Download: [Thunderstore](https://thunderstore.io/c/valheim/p/DJAventuras/PortalFreight/) · [Nexus Mods](https://www.nexusmods.com/valheim/mods/4963) · [GitHub Releases](https://github.com/Felihens/PortalFreight/releases)
 
 ## Building
 
